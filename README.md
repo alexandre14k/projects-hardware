@@ -1,6 +1,8 @@
 # projects-hardware
 public released hardware projects
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/projects-hardware&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 | Keywords | Url | Type | Tool | Features |
 |----------|-----|------|------|----------|
 | schematics<br>layouts<br>tests | [tester-pcb](https://github.com/alexandre14k/tester-pcb) | Printed Circuit Board | Kicad | Mechatronics<br>Tester units |
