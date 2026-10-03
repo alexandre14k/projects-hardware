@@ -10,3 +10,4 @@ public released hardware projects
 | assembly<br>stl<br>devkit stm32<br>openscad<br>mechanical |[md997d_part](https://github.com/alexandre14k/mb997d_part) | 3d Printed Pcb Support | OpenScad | Mechatronics |
 | assembly<br>stl<br>devkit stm32<br>openscad<br>mechanical |[mb1136c_part](https://github.com/alexandre14k/mb1136c_part) | 3d Printed Pcb Support | OpenScad | Mechatronics |
 | test app<br>stm32f4xx<br>release<br>serial-terminal<br>python3 |[rosetta_f411re](https://github.com/alexandre14k/rosetta_f411re) | Mixed-Signal Test Board | gcc-arm-none-eabi | Mechatronics<br>Tester units<br>Microcontrollers |
+| demo app<br>stm32f4xx<br>release<br>embedded<br>rust |[blinky](https://github.com/alexandre14k/blinky) | Bare metal rust code | rust | Blink LED<br>minimalist code |
